@@ -13,3 +13,6 @@ git push - Envia commits do repositorio local para repositorio remoto
 git branch -D <branchname> Exclui a branch especificada
 git fetch Baixa objetos e referencias do repo
 git pull Baixa objetos e refencias do repo. remoto e mescla com a branch atual.
+git versio  Verificar versão da git
+git config--global "usuario'  Configurae git local
+git config --global "user email" configurar conta git
